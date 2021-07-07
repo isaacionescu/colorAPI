@@ -2,36 +2,36 @@
 	{
 		"id": "1",
 		"name":"red",
-		"tags":[""]
+		"tags":["red"]
 	},
 
 	{
 		"id": "2",
 		"name": "orange",
-		"tags": [""]
+		"tags": ["orange"]
 	},
 
 	{
 		"id": "3",
 		"name": "yellow",
-		"tags": [""]
+		"tags": ["yellow"]
 	},
 
 	{
 		"id": "4",
 		"name": "green",
-		"tags": [""]
+		"tags": ["green"]
 	},
 
 	{
 		"id": "5",
 		"name": "blue",
-		"tags": [""]
+		"tags": ["blue"]
 	},
 
 	{
 		"id": "6",
 		"name": "violet",
-		"tags": [""]
+		"tags": ["violet"]
 	}
 ]

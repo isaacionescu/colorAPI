@@ -1,11 +1,68 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>ColorAPI</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>ColorAPI v. 1.03</title>
 </head>
-<body>
-	<p>TESTTTING</p>
 
+<body>
+
+<!-- <div class="container"> -->
+	<header>
+		<div class="title"><a href="index.html">ColorAPI</a></div>
+		<nav class="header-nav">
+			<span class="nav-items"><a href="">Browse cats</a></span>
+			<span class="nav-items"><a href="">Submit cat</a></span>		
+		</nav>
+	</header>
+
+	<main>
+		<div class="grid">
+			<div class="search-section">
+				<form class="search-form">
+					<label for="search-label">Search!</label>
+					<input type="text" id="label"></input>
+					
+				</form>
+			</div>
+
+			<div class="categories-section">
+				<div class="categories-title">Filter by tags</div>
+				<form class="categories-form">
+					<ul>
+						<li>
+							<input class="tag-item" id="test" type="checkbox" name="test"></input>		
+							<label for="test">Test 1</label>
+						</li>
+
+						<li>
+							<input class="tag-item" id="test2" type="checkbox" name="test2"></input>		
+							<label for="test2">Test 2</label>
+						</li>
+
+					</ul>
+
+					<!-- <div class="label+checkbox"></div> -->
+
+				</form>
+			</div>
+
+			<div class="cats-section">
+
+				<div class="cats-grid">
+					<!-- <div class="cat-item"></div> -->
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<footer>
+		© Isaac Ionescu 2021. Thanks to <a href="https://cataas.com" target="_blank">https://cataas.com</a> for providing a free public API for fetching content (images and tags of cats);
+	</footer>
+	
+<!-- </div> -->
+
+<script type="text/javascript" src="main.js"></script>
 </body>
 </html>
