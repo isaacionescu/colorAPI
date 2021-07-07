@@ -1,0 +1,37 @@
+[
+	{
+		"id": "1",
+		"name":"red",
+		"tags":[""]
+	},
+
+	{
+		"id": "2",
+		"name": "orange",
+		"tags": [""]
+	},
+
+	{
+		"id": "3",
+		"name": "yellow",
+		"tags": [""]
+	},
+
+	{
+		"id": "4",
+		"name": "green",
+		"tags": [""]
+	},
+
+	{
+		"id": "5",
+		"name": "blue",
+		"tags": [""]
+	},
+
+	{
+		"id": "6",
+		"name": "violet",
+		"tags": [""]
+	}
+]
